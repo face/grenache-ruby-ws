@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "eventmachine", "~> 1.0"
   spec.add_runtime_dependency "faye-websocket", "~> 0.10"
   spec.add_runtime_dependency "grenache-ruby-base", "~> 0.2.12"
-  spec.add_runtime_dependency "oj", "~> 2.18"
+  spec.add_runtime_dependency "oj", "~> 3.6"
   spec.add_runtime_dependency "thin", "~> 1.7"
 
 end
